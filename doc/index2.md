@@ -1,3 +1,3 @@
 Esto es una prueba
 
-Esto es un erro
+Esto es un err
